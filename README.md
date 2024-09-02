@@ -30,7 +30,9 @@ Implementation using C or pyhton code
 
 
 ## PROGRAM:
-``C
+
+``` C
+
 #include <stdio.h>
 #include <string.h>
 
@@ -95,7 +97,7 @@ int main() {
 
     return 0;
 }
-``
+```
 
 
 ## OUTPUT:
