@@ -512,8 +512,7 @@ void decipher() {
 ```
 
 ## Output:
-![Uploading image.png…]()
-
-
+![image](https://github.com/user-attachments/assets/8f6c7e22-7e23-4209-940f-b221d1d14189)
 
 ## Result:
+The program for Vigenere Cipher is executed successfully.
